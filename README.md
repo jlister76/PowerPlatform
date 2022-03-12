@@ -1,4 +1,6 @@
 # PowerPlatform CanvasApp Interface
+## Mobile Asset Inventory Management App
+
 ### Scanning Asset
 <table>
     <thead>
