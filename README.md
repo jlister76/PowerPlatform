@@ -82,28 +82,28 @@
         <tr>
             <td> <img
                     src="https://user-images.githubusercontent.com/4407432/158030288-c3a40d3d-bfbb-4f91-94e5-75626bc858ac.PNG"
-                    width="100" height="150"> </td>
+                    width="100" height="100"> </td>
             <td> <img
                     src="https://user-images.githubusercontent.com/4407432/158030306-c5850164-5152-450c-9990-4b1cc6b60b33.PNG"
-                    width="100" height="150"></td>
+                    width="100" height="100"></td>
             <td> <img
                     src="https://user-images.githubusercontent.com/4407432/158028197-21e5e8b2-ee01-48a9-ad90-e0c211aee102.png"
-                    width="100" height="150"></td>
+                    width="100" height="100"></td>
             <td> <img
                     src="https://user-images.githubusercontent.com/4407432/158030332-a2af8515-4e22-447b-b733-00680f3c713c.PNG"
-                    width="100" height="150"></td>
+                    width="100" height="100"></td>
             <td> <img
                     src="https://user-images.githubusercontent.com/4407432/158030349-08ba990a-66ac-43bf-a1f5-69f4dd139037.PNG"
-                    width="100" height="150"></td>
+                    width="100" height="100"></td>
             <td> <img
                     src="https://user-images.githubusercontent.com/4407432/158030365-11919726-74da-412d-be42-7cc7220d1dcf.PNG"
-                    width="100" height="150"></td>
+                    width="100" height="100"></td>
             <td> <img
                     src="https://user-images.githubusercontent.com/4407432/158030401-ab2a1d42-6da8-4f30-bf8a-3fb8e06fb27b.PNG"
-                    width="100" height="150"></td>
+                    width="100" height="100"></td>
             <td> <img
                     src="https://user-images.githubusercontent.com/4407432/158030415-4ce7400d-2dea-403d-b872-ff175e7eccf5.PNG"
-                    width="100" height="150"></td>
+                    width="100" height="100"></td>
         </tr>
     </tbody>
 </table>
